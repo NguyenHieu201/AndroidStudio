@@ -91,13 +91,13 @@
                     android:id="@+id/major1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Khoa học máy tính cứt"/>
+                    android:text="Khoa học máy tính"/>
 
                 <RadioButton
                     android:id="@+id/major2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Kỹ thuật máy tính chiến"/>
+                    android:text="Kỹ thuật máy tính"/>
             </RadioGroup>
 
             <TextView
